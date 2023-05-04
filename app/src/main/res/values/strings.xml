@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JetpackNav</string>
+    <string name="urlCat3">https://images.saymedia-content.com/.image/t_share/MTk2Nzg0MjYxNjk5NzQxMzE0/cats-that-look-like-tigers-leopards-and-cheetahs.png</string>
+    <string name="urlCat">https://thumbs.dreamstime.com/b/cute-cat-portrait-square-photo-beautiful-white-closeup-105311158.jpg</string>
+    <string name="urlCat2">https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg</string>
+
+    <string name="fullDescCat0">Little Cat, has 4 paws</string>
+    <string name="fullDescCat1">Smart Cat</string>
+    <string name="fullDescCat2">Beautiful cat</string>
+</resources>
